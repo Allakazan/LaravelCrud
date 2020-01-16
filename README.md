@@ -13,6 +13,8 @@ Crud básico de contatos com Laravel
 
 `php artisan migrate`
 
+`cp .env.example .env`
+
 Dados do banco no .env
 
 ### Run
